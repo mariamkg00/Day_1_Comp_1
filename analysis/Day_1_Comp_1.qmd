@@ -5,3 +5,7 @@ editor: visual
 ---
 
 #Make a change
+
+```{r}
+energy2 <- read_csv("../data/us_energy.csv")
+```
